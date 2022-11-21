@@ -5,6 +5,7 @@ Config.PedCoords = vector4(377.39, -1584.91, 29.29, 317.96) -- Create preview pe
 Config.HiddenCoords = vector4(-812.23, 182.54, 76.74, 156.5) -- Hides your actual ped while you are in selection
 Config.CamCoords = vector4(379.67, -1582.45, 29.29, 136.84) -- Camera coordinates for character preview screen
 Config.EnableDeleteButton = true -- Define if the player can delete the character or not
+Config.customNationality = false -- Defines if Nationality input is custom of blocked to the list of Countries
 
 Config.DefaultNumberOfCharacters = 5 -- Define maximum amount of default characters (maximum 5 characters defined by default)
 Config.PlayersNumberOfCharacters = { -- Define maximum amount of player characters by rockstar license (you can find this license in your server's database in the player table)
